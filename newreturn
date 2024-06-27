@@ -1,4 +1,0 @@
--- Exemplo de script Lua que retorna duas strings separadas
-return
-    "d38bf40cfa645b3bfea2e543a7be9fc130b39b92f3283ad64402e21619f2708a",
-    "94af877ba872020e6459ba118962dccfafaa6e02fc120722c9a26f4a665e875f"
